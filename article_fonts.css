@@ -1,0 +1,37 @@
+h1 {
+	font-family: "Old English Text MT";
+	scr url (http://ufonts.com/q31243);
+	text-align: center;
+	font-size: 40px;
+}
+
+ul { 
+display: block;
+border-top: 1 px solid black;
+padding: 0px;
+}
+
+
+
+li{
+	font-size: 15px;
+	text-decoration:none;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+
+h4{ 
+border-bottom: 1px solid black; 
+}
+
+#f {
+	-moz-column-count: 3;
+	    -moz-column-rule: 1px dotted black;
+}
+
+#s{
+	-moz-column-count: 2;
+	    -moz-column-rule: 1px dotted black;
+}
+
